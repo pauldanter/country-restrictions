@@ -1,5 +1,3 @@
-# Argentina
-
 Source(s):
 
 - Wikipedia March 26th 2020 - Coronavirus Pandemic in Argentina [Link](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina)

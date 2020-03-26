@@ -4,7 +4,7 @@
 
 - [Argentina](argentina.md)
 - [China](china.md)
-- [Czech Republic](czech-republic)
+- [Czech Republic](czech-republic.md)
 - [Japan](japan.md)
 
 ---

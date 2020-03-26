@@ -1,7 +1,7 @@
 # Czech Republic
 
-*Source:
-- Website of the Governement of the Czech Republic [Link](https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/)*
+Source:
+- Website of the Governement of the Czech Republic [Link](https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/)
 
 ---
 

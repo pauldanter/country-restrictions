@@ -1,4 +1,4 @@
-# Czech Replblic
+# Czech Republic
 
 ## Local Measures in Place
 

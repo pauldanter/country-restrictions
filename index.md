@@ -1,4 +1,4 @@
-# Country List \(Alphabetical\)
+## Country List \(Alphabetical\)
 
 - [Argentina](argentina.md)
 - [China](china.md)

@@ -9,3 +9,6 @@
 - As of 18 March, all reexports of medicines and medicinal products registered for CZ market to the EU and the export of such outside the EU is forbidden. With effect from the same day, all stores and transport operators are advised to regularly disinfect their premises, particularly areas that commonly come into contact with persons.
 - As of 16 March, free movement is limited with the exception of travel to and from work and necessary travels to ensure basic human needs (e.g. foodstuffs, pharma shopping, helping older family members). It is forbidden to provide accommodating services.
 
+
+---
+[Index](index.md)

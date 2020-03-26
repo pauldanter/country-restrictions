@@ -1,5 +1,3 @@
-# Japan
-
 Source(s):
 
 - Wikipedia March 26th 2020 - Coronavirus Pandemic in Japan [Link](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Japan)

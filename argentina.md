@@ -1,9 +1,9 @@
 # Argentina
 
-*Source(s):
-- Wikipedia March 26th 2020 - Coronavirus Pandemic in Argentina [Link](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina)*
+Source(s):
 
-*Official Government Website (Spanish) [Link](https://www.argentina.gob.ar/salud/coronavirus-COVID-19)*
+- Wikipedia March 26th 2020 - Coronavirus Pandemic in Argentina [Link](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina)*
+- Official Government Website (Spanish) [Link](https://www.argentina.gob.ar/salud/coronavirus-COVID-19)
 
 ---
 
